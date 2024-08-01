@@ -26,8 +26,8 @@
 <polygon points="83.1,19.4 92.9,34.2 83.7,32.3 78.8,26.8"/>
 </g>
 <g>
-<polygon style="fill:#F99527" points="20,6 38,0 18,20 0,22"/>
-<polygon style="fill:#FA7D17" points="20,38 38,44 18,24 0,22"/>
-<polygon style="opacity:0.3;fill:#F8881C" points="42,4 28,22 42,40 48,22"/>
+<polygon style="fill:#f8ad2b" points="20,6 38,0 18,20 0,22"/>
+<polygon style="fill:#f4771a" points="20,38 38,44 18,24 0,22"/>
+<polygon style="opacity:0.5;fill:#f8ad2b" points="42,4 28,22 42,40 48,22"/>
 </g>
 </svg>
