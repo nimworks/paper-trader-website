@@ -1,0 +1,12 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<linearGradient id="kaagziPwaSvgG1" gradientUnits="userSpaceOnUse" x1="23" y1="489" x2="489" y2="23">
+<stop offset="0" stop-color="#131122"/>
+<stop offset="1" stop-color="#3D3368"/>
+</linearGradient>
+<path fill="url(#kaagziPwaSvgG1)" d="M432,512H80c-44,0-80-35-80-80V80C0,35,35,0,80,0h352c44,0,80,35,80,80v352C512,476,476,512,432,512z"/>
+<g>
+<polygon fill="#F8AD2B" points="231,156 343.5,118.5 218.5,243.5 106,256"/>
+<polygon fill="#F4771A" points="231,356 343.5,393.5 218.5,268.5 106,256"/>
+<polygon opacity="0.5" fill="#F8AD2B" points="368.5,143.5 281,256 368.5,368.5 406,256"/>
+</g>
+</svg>

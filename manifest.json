@@ -1,0 +1,65 @@
+{
+	"short_name": "Kaagzi",
+	"name": "Kaagzi",
+	"description": "Kaagzi is a demo trading app useful for practicing trading on live market data without using real capital",
+	"icons": [
+		{
+			"src": "/img/icons/icons-vector.svg",
+			"type": "image/svg+xml",
+			"sizes": "512x512",
+			"purpose": "maskable"
+		},
+		{
+			"src": "/img/icons/icons-192.png",
+			"type": "image/png",
+			"sizes": "192x192",
+			"purpose": "maskable"
+		},
+		{
+			"src": "/img/icons/icons-512.png",
+			"type": "image/png",
+			"sizes": "512x512",
+			"purpose": "maskable"
+		},
+		{
+			"src": "/img/icons/icons-vector.svg",
+			"type": "image/svg+xml",
+			"sizes": "512x512",
+			"purpose": "any"
+		},
+		{
+			"src": "/img/icons/icons-192.png",
+			"type": "image/png",
+			"sizes": "192x192",
+			"purpose": "any"
+		},
+		{
+			"src": "/img/icons/icons-512.png",
+			"type": "image/png",
+			"sizes": "512x512",
+			"purpose": "any"
+		}
+	],
+	"id": "/",
+	"start_url": "/",
+	"background_color": "#292145",
+	"display": "standalone",
+	"scope": "/",
+	"theme_color": "#292145",
+	"screenshots": [
+		{
+			"src": "/img/kaagzi.webp",
+			"type": "image/webp",
+			"sizes": "1280x720",
+			"form_factor": "narrow",
+			"label": "About Kaagzi"
+		},
+		{
+			"src": "/img/kaagzi.webp",
+			"type": "image/webp",
+			"sizes": "1280x720",
+			"form_factor": "wide",
+			"label": "About Kaagzi"
+		}
+	]
+}
