@@ -28,11 +28,11 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "img/icons/icons-192.png",
-    "revision": "f219ec9c32dfae22a4ee4fa4d40a80d4"
+    "revision": "3b33a9c4c1eeafd23ea2607608e0f6da"
   },
   {
     "url": "img/icons/icons-512.png",
-    "revision": "b2609670373124c85fd4dac61a779a3f"
+    "revision": "5ffe01107f7babca566fc7f3a4ad8a3d"
   },
   {
     "url": "img/icons/icons-vector.svg",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
   },
   {
     "url": "img/kaagzi.webp",
-    "revision": "09b8838c4e8e30bc889ace01da27d564"
+    "revision": "e6f8562da2020648c16ae7b1056c2e6e"
   },
   {
     "url": "framework-f94f174fe4c0c2913b82.js"
@@ -56,13 +56,13 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "4565f84b0ac2765b193ad58378595639"
+    "revision": "49bbf90c5dde7c38d0ab62d02437d852"
   },
   {
-    "url": "styles.e8ae54be2f26c5506db5.css"
+    "url": "styles.081ea2e1352714f0b866.css"
   },
   {
-    "url": "webpack-runtime-71dff7b9ffa33d102d86.js"
+    "url": "webpack-runtime-77b048f4427d935ea3eb.js"
   },
   {
     "url": "manifest.webmanifest",
