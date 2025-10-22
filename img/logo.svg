@@ -1,0 +1,33 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 180 44" style="enable-background:new 0 0 180 44;" xml:space="preserve">
+<symbol  id="a" viewBox="0 -16.6 14.8 16.6" style="fill:#52458b">
+<polygon points="4.9,0 7.4,-4.3 14.8,-6.8 12.3,-1.8"/>
+<polygon points="4.9,0 7.4,-6.8 4.9,-16.6 0,-11.7"/>
+<polygon points="4.9,-16.6 7.4,-11.7 13.5,-9.8 12.3,-14.2"/>
+</symbol>
+<symbol id="i" viewBox="0 -16.6 8.6 16.6" style="fill:#52458b">
+<polygon points="8.6,0 3.1,-1.8 0,-16.6 5.5,-16.6"/>
+</symbol>
+<g style="fill:#52458b">
+<use xlink:href="#a"  width="14.8" height="16.6" y="-16.6" transform="matrix(1 0 0 -1 93.5385 17.5385)"/>
+<use xlink:href="#a"  width="14.8" height="16.6" y="-16.6" transform="matrix(1 0 0 -1 113.2308 17.5385)"/>
+<use xlink:href="#a"  width="14.8" height="16.6" y="-16.6" transform="matrix(1 0 0 -1 132.9231 17.5385)"/>
+<use xlink:href="#i"  width="8.6" height="16.6" y="-16.6" transform="matrix(1 0 0 -1 168.6153 17.5385)"/>
+<use xlink:href="#i"  width="8.6" height="16.6" y="-16.6" transform="matrix(1 0 0 -1 144.6152 17.5386)"/>
+<use xlink:href="#i"  width="8.6" height="16.6" y="-16.6" transform="matrix(1 0 0 -1 124.9229 17.5386)"/>
+<use xlink:href="#i"  width="8.6" height="16.6" y="-16.6" transform="matrix(1 0 0 -1 105.2307 17.5386)"/>
+<polygon points="144.6,34.2 144,37.2 145.2,44 148.3,42.2 150.2,34.2 150.6,31.7 145.1,31.7"/>
+<polygon points="145.2,44 142.2,38.5 132.9,39.7 136,44"/>
+<polygon points="156.3,17.5 166.8,17.5 168,21.2 155.1,21.2"/>
+<polygon points="168,21.2 160.6,23.1 153.8,29.8 156.9,34.2"/>
+<polygon points="156.9,34.2 161.8,30.5 167.4,30.5 166.2,34.2"/>
+<polygon points="177.2,17.5 179.1,7.7 174.8,10.2 172.3,15.7"/>
+<polygon points="70.8,34.2 64,29.2 83.7,7.7 96,4"/>
+<polygon points="76.9,4 68.9,7.7 64,29.2 75.1,14.5"/>
+<polygon points="83.1,19.4 92.9,34.2 83.7,32.3 78.8,26.8"/>
+</g>
+<g>
+<polygon style="fill:#f8ad2b" points="20,6 38,0 18,20 0,22"/>
+<polygon style="fill:#f4771a" points="20,38 38,44 18,24 0,22"/>
+<polygon style="opacity:0.5;fill:#f8ad2b" points="42,4 28,22 42,40 48,22"/>
+</g>
+</svg>
